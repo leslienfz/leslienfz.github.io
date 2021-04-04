@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://leslienfz.github.io"
-baseurl: "leslienfz.github.io"
+baseurl: "/leslienfz.github.io"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""

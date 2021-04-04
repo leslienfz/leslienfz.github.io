@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://leslienfz.github.io/photorama/gallery/"  
-  - JOURNAL: "https://leslienfz.github.io/photorama/journal/"
-  - ABOUT: "https://leslienfz.github.io/photorama/about/"
+  - GALLERY: "https://leslienfz.github.io/gallery/"  
+  - JOURNAL: "https://leslienfz.github.io/journal/"
+  - ABOUT: "https://leslienfz.github.io/about/"
 
 # All translation keys
 translations:
